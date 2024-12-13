@@ -20,11 +20,14 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-import": "^2.29.0",
     "eslint-plugin-prettier": "^5.0.1",
-    "mocha": "^10.2.0",
+    "mocha": "^10.5.2",
     "prettier": "^3.0.3"
   },
   "bugs": {
     "url": "https://github.com/rolling-scopes-school/coreJs-conditions-n-loops-tasks/issues"
   },
-  "homepage": "https://github.com/rolling-scopes-school/coreJs-conditions-n-loops-tasks#readme"
+  "homepage": "https://github.com/rolling-scopes-school/coreJs-conditions-n-loops-tasks#readme",
+  "dependencies": {
+    "npm-check-updates": "^16.14.20"
+  }
 }
